@@ -12,14 +12,15 @@ A new Flutter project.
   google_fonts: ^1.1.0
 
 ## Screen Shots
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_1.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_2.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_3.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_4.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_5.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png)
-![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_7.png)
+
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_1.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_2.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_3.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_4.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_5.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png" alt="" width="320">
+<img src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_7.png" alt="" width="320">
 
 
 
