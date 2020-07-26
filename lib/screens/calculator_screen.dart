@@ -11,7 +11,7 @@ class CalculatorScreen extends StatelessWidget {
     return LayoutBuilder(
       builder: (BuildContext context, BoxConstraints constraints) {
         final height = constraints.maxHeight;
-        final width = constraints.maxHeight;
+        // final width = constraints.maxHeight;
         _calculatorDisplay() {
           return Container(
             height: height * 0.3,
