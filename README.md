@@ -15,12 +15,12 @@ A new Flutter project.
 
 ## Screen Shots
 <div float="left">
-<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png" border="5" alt="aplash screen" width="320">
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png" style="border:5px solid black" alt="aplash screen" width="320">
 
-<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_2.png" border="5" alt="Calculator Screen" width="320">
-<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_4.png" border="5" alt="Calculator Screen with History" width="320">
-<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_5.png" border="5" alt="History Screen" width="320">
-<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_7.png" border="5" alt="Dark Mode" width="320">
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_2.png" style="border:5px solid black" alt="Calculator Screen" width="320">
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_4.png" style="border:5px solid black" alt="Calculator Screen with History" width="320">
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_5.png" style="border:5px solid black" alt="History Screen" width="320">
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_7.png" style="border:5px solid black" alt="Dark Mode" width="320">
 </div>
 
 
