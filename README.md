@@ -1,8 +1,5 @@
-# calculator
-Complete in 6hrs
-
-
-A new Flutter project.
+# Flutter Neumorphic Calculater
+Completed in 6 hrs
 
 ## Flutter Package used in this project
 <ul>
