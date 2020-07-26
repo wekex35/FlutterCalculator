@@ -1,3 +1,6 @@
+<img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/logo.png" style="border:5px solid black" alt="logo" width="200">
+
+
 # Flutter Neumorphic Calculater
 Completed in 6 hrs
 
@@ -19,6 +22,12 @@ Completed in 6 hrs
 <img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_5.png" style="border:5px solid black" alt="History Screen" width="320">
 <img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_7.png" style="border:5px solid black" alt="Dark Mode" width="320">
 </div>
+
+## Download
+
+ <a href="/images/myw3schoolsimage.jpg" download>
+ <img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/app-release.apk" style="border:5px solid black" alt="Download" width="100">
+ </a> 
 
 
 
