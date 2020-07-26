@@ -12,5 +12,5 @@ A new Flutter project.
   google_fonts: ^1.1.0
 
 ## Screen Shots
-
+![Splash Screen](https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/Screenshot_6.png)
 
