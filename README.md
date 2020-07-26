@@ -25,8 +25,8 @@ Completed in 6 hrs
 
 ## Download
 
- <a href="/images/myw3schoolsimage.jpg" download>
- <img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/app-release.apk" style="border:5px solid black" alt="Download" width="100">
+ <a href="https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/app-release.apk" download>
+ <img  src = "https://raw.github.com/wekex35/FlutterCalculator/master/screenshots/logo.png" style="border:5px solid black" alt="Download" width="100">
  </a> 
 
 
